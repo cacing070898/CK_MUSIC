@@ -1,0 +1,22 @@
+{
+  "name": "cuk_music",
+  "version": "1.0.0",
+  "description": "Personal BOT MUSIC",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.2.0",
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "lyrics-finder": "^21.7.0",
+    "ytdl-core": "^4.5.0",
+    "ytpl": "^2.0.5",
+    "ytsearcher": "^1.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Afta",
+  "license": "ISC"
+}
