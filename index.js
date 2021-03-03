@@ -8,7 +8,7 @@ client.once('ready', () => {
     console.log('CUK Music on !');
 });
 const searcher = new YTSearcher({
-    key: process.env.ytapi3,
+    key: process.env.youtube_api,
     revealed: true
 });
 client.musics = new Discord.Collection();
